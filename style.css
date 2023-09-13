@@ -15,6 +15,7 @@ table {
     from{
         width: 20%;
         height: 4px;
+        margin-left: 50%;
     }
     to {
         width: 100%;
