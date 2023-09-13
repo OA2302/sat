@@ -4,7 +4,7 @@
 }
 table {
    animation-name: zoom;
-   animation-duration: 1s;
+   animation-duration: 2s;
    width: 100%;
    border-collapse: collapse;
    margin-bottom: 20px;
